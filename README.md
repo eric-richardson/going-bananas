@@ -1,2 +1,3 @@
 # going-bananas
-Redu of hello-world git tutorial
+
+Hello, folks.  Eric here.  I love Spaceman Spiff.  Who doesn't?  They don't matter.
